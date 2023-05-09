@@ -1,0 +1,11 @@
+.about-container {
+    display: flex;
+    justify-content: center;
+}
+
+.about-body {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 250px;
+}

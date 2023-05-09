@@ -1,0 +1,30 @@
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.home-btn {
+    /* margin: 10px; */
+}
+
+.sub-btn {
+    /* margin-left: 10px; */
+}
+
+.profile-btn {
+}
+
+.decoration-none {
+    text-decoration: none;
+    color: black;
+}
